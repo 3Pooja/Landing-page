@@ -1,0 +1,1081 @@
+  .container {
+          position: relative;
+          text-align: center;
+          color: white;
+              }
+.margin-60px-110px {
+  margin: 60px 110px;
+}
+        .adult-paediatric-b {
+           color: #FFFFFF;
+           font-family: inherit;
+           font-size: 31px;
+           letter-spacing: 1.28px;
+           line-height: 40px;
+           width: 622px;
+           text-align: left;
+           left: 450px;
+           top: 268px;
+           position: absolute;
+          transform: translate(-50%, -50%);   
+         }
+         .haematology-oncolo {
+          color: #FFFFFF;
+          font-family: StagSans;
+          font-size: 25px;
+          letter-spacing: 3.59px;
+          line-height: 34px;
+          width: 622px;
+          text-align: left;
+          left: 144px;
+          top: 315px;
+          position: absolute;
+         }
+         .aster-logo-white {
+             text-align: left;
+             left: 144px;
+             top: 100px;
+             position: absolute;
+             width: 180px;
+             height: 90px;
+           }
+         .book-appoinment-rectangle {
+            background-color: #DD5A6A;
+            border-radius: 3.2px;
+            width: 186px;
+            height: 45px;                           
+            text-align: left;
+            left: 144px;
+            bottom: 100px;
+            position: relative; 
+            display: flex;
+            justify-content:center; 
+            align-items: center;
+            color: #FFFFFF;
+            font-family: Arial;
+            font-size: 14.4px;
+            line-height: 17px;
+         }
+         .enquire-rectangle {
+            background-color: #FFFFFF;
+            box-shadow: -4px 2px 13px 0 rgba(85, 95, 126, 0.18);
+            width: 339px;
+            height: 450px;
+            right: 120px;
+            top: 35px;
+            padding: 40px;
+            position: absolute;
+         }
+         .enquire-now {
+           color: #213559;
+           font-family: inherit;
+           font-size: 20.08px;
+           line-height: 24px;
+           width: 127px;
+           text-align: left;
+          font-weight: bold;
+         }
+		 .enquire-label-rectangle {
+            border: 0.87px solid #D0D0D0;
+            width: 278px;
+            height: 42px;
+            color: #213559;
+            font-family: inherit;
+            font-size: 12.22px;
+            line-height: 15px;
+            text-align: left;
+            padding: 12px;
+            margin: 15px 2px 0px;
+        }
+        .rectangle-copy-2 {
+          background-color: #FFFFFF;
+          border: 0.87px solid #D0D0D0;
+          width: 278px;
+          height: 77px;
+          padding: 29px;
+          margin: 15px 2px 0px;
+          display: flex;
+        }
+        .robout-rectangle {
+          background-color: #FFFFFF;
+          border: 0.87px solid #979797;
+          border-radius: 0.87px;
+          width: 18px;
+          height: 18px;
+        }
+        .im-not-a-robot {
+          color: #213559;
+          font-family: inherit;
+          font-size: 12.22px;
+          line-height: 14px;
+          width: 120px;
+          text-align: left;
+          padding: 0px 5px 0px 16px;
+        }
+       .submit{
+         background-color: #DD5A6A;
+         border-radius: 3.2px;
+         width: 127px;
+         height: 44px;
+         text-align: left;
+         position: absolute;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         color: #FFFFFF;
+         font-family: Arial;
+         font-size: 14.4px;
+         line-height: 17px;
+         margin-top: 8px;
+     }
+      #content-rectangle {
+         background-image: radial-gradient(#2EC4B8, #6078EA);
+         border-radius: 4px;
+         width: 600px;
+         height: 88px;
+         margin: 0px 39px;
+         color: #FFFFFF;
+         font-family: inherit;
+         font-size: 18px;
+         line-height: 26px;
+         text-align: left;
+         padding: 15px 30px;
+         font-weight: 500;
+    }
+    .replacement-of-disea {
+     color: #000000;
+    font-family: inherit;
+    font-size: 17px;
+    line-height: 22px;
+    width: 600px;
+    text-align: left;
+    padding: 15px 0px;
+    margin: 13px 45px 5px;
+     }
+.line-3 {
+    border: 1px solid #ECECFF;
+    width: 600px;
+    height: 2px;
+    margin: 0px 40px;
+}
+.doctors {
+  color: #22B78E;
+  font-family: inherit;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+  font-weight: 500;
+}
+.details-rectangle {
+  background-color: #F9F9FF;
+  border-radius: 4px;
+  width: 539px;
+  height: 1064px;
+  padding: 12px;
+}
+.pediatric-bmt {
+  color: #22B78E;
+  font-family: inherit;
+  font-size: 24px;
+  letter-spacing: 0.99px;
+  line-height: 44px;
+  text-align: center;
+}
+.dr-vijay-agarwal-copy {
+  color: #1D5AA6;
+  font-family: inherit;
+  font-size: 22px;
+  letter-spacing: 1.76px;
+  line-height: 50px;
+  text-align: center;
+  font-weight: 500;
+}
+.md-mrcp-ph-d-cct-le-copy {
+  color: #1D5AA6;
+  font-family: inherit;
+  font-size: 15px;
+  letter-spacing: 1.2px;
+  line-height: 16px;
+  text-align: center;
+}
+.line-5-copy-2 {
+  border: 1px solid #22B78E;
+  width: 37px;
+  height: 1px;
+  margin: 0% 44%;
+}
+.dr-vijay-agarwal-is-copy-2 {
+  color: #000000;
+  font-family: inherit;
+  font-size: 15px;
+  line-height: 20px;
+  width: 423px;
+  text-align: center;
+  margin: 0% 8%;
+}
+.know-more {
+   background-image: radial-gradient(#2EC4B8, #6078EA);
+    border-radius: 4px;
+    width: 129px;
+    height: 49px;
+    color: #FFFFFF;
+    font-family: inherit;
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 18px;
+    text-align: center;
+    margin: 0% 34%;
+    padding: 3% 4%;
+}
+.line-3-copy-6 {
+  border: 1px solid #ECECFF;
+  width: 415px;
+  height: 2px;
+  margin: 0% 10%;
+}
+.padding-32px{
+padding: 10px 143px;
+}
+.path {
+  background-color: #E2574C;
+  width: 8px;
+  height: 8px;
+}
+.autologous-bone-marr {
+    color: #000000;
+	font-family: StagSans;
+    font-size: 14px;
+    line-height: 23px;
+    display: inline;
+}
+.types-margin{ 
+  margin:0% 7%; 
+  text-align: left;
+}
+div.fixed-rectangle {
+    height: 170px;
+    margin: 1% 1%;
+    max-width: 255px;
+    background-color: #FFFFFF;
+    border: 1px solid #E5EAFF;
+    border-radius: 4px;
+    box-shadow: 3px 5px 29px 0 rgb(187 165 228 / 10%)
+}
+.failure-to-thrive {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 21px;
+  width: 198px;
+  text-align: left;
+  padding: 10% 0%;
+}
+.what-are-the-conditi {
+  color: #1D5AA6;
+  font-family: inherit;
+  font-size: 20px;
+  letter-spacing: 1.6px;
+  line-height: 22px;
+  text-align: left;
+  font-weight: 500;
+}
+.condition-margin {
+    margin: 3% 0%;
+    text-align: left;
+}
+.line-3-copy-2 {
+    border: 1px solid #ECECFF;
+    width: 1088px;
+    height: 0px;
+}
+.dropdown-align{
+left: 11.2%;
+}
+.left-arrow-align{left: 26%;}
+.right-arrow-align{left: 12%;}
+.it-is-a-long-establi {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  line-height: 21px;
+  width: 609px;
+  text-align: left;
+}
+.it-is-a-long-establish {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  line-height: 21px;
+  width: 364px;
+  padding: 9% 0%;
+  text-align: left;
+}
+.test-rectangle {
+  background-color: #FFFFFF;
+    border-radius: 4px;
+    box-shadow: 9px 8px 27px 0 rgb(0 0 0 / 4%);
+    margin: 1% 1%;
+    max-width: 35%;
+    height: 186px;
+}
+.john-doe {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 22px;
+  line-height: 26px;
+  text-align: left;
+}
+.softwere-engineer {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: left;
+}
+
+.book-an-appoinment {
+border-radius: 4px;
+    width: 221px;
+    height: 50px;
+    color: #FFFFFF;
+    font-family: inherit;
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 18px;
+    text-align: center;
+    margin: 3% 42%;
+    background-color: #004498;
+    padding: 1% 1% 1%
+	}
+
+	.footer-rectangle {
+  background-color: #272727;
+  width: 1349px;
+  height: 256px;
+}
+
+.line-4 {
+  border: 1px solid rgba(255, 255, 255, 0.21);
+  opacity: 0.3701869419642857;
+  width: 1110px;
+  height: 2px;
+  margin: 0% 9%;
+}
+
+.aster-cmi-all-right {
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 14px;
+  letter-spacing: 1.12px;
+  line-height: 17px;
+  text-align: center;
+    padding: 1%;
+}
+@media (min-width: 1024px) and (max-width: 1280px) {
+.aster-logo-white {
+    text-align: left;
+    left: 10%;
+    top: 2%;
+    position: absolute;
+    width: 12%;
+    height: 1.3%;
+}
+.enquire-rectangle {
+    background-color: #FFFFFF;
+    box-shadow: -4px 2px 13px 0 rgb(85 95 126 / 18%);
+    width: 24%;
+    height: 7.5%;
+    right: 5%;
+    top: 1%;
+    padding: 2%;
+    position: absolute;
+}
+.enquire-now {
+    color: #213559;
+    font-family: inherit;
+    font-size: 20.08px;
+    line-height: 26px;
+    width: 4%;
+    text-align: left;
+    font-weight: bold;
+}
+.enquire-label-rectangle {
+   border: 0.87px solid #D0D0D0;
+    width: 90%;
+    height: 11%;
+    color: #213559;
+    font-family: inherit;
+    font-size: 10.22px;
+    line-height: 15px;
+    text-align: left;
+    padding: 10px;
+    margin: 13px 5px 0px;
+}
+.rectangle-copy-2 {
+   background-color: #FFFFFF;
+    border: 0.87px solid #D0D0D0;
+    width: 90%;
+    height: 14%;
+    padding: 16px 10px 20px 15px;
+    margin: 10px 4px 10px;
+    display: flex;
+}
+.robout-rectangle {
+   background-color: #FFFFFF;
+    border: 0.87px solid #979797;
+    border-radius: 0.87px;
+    width: 6%;
+    height: 11px;
+}
+.im-not-a-robot {
+    color: #213559;
+    font-family: inherit;
+    font-size: 12.22px;
+    line-height: 14px;
+    width: 124px;
+    text-align: left;
+    padding: 0px 0px 0px 13px;
+}
+.submit {
+    background-color: #DD5A6A;
+    border-radius: 3.2px;
+    width: 38%;
+    height: 9%;
+    text-align: left;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 13.4px;
+    line-height: 17px;
+    margin-top: 8px;
+}
+.book-appoinment-rectangle {
+   background-color: #DD5A6A;
+    border-radius: 3.2px;
+    width: 17%;
+    height: 45px;
+    text-align: left;
+    left: 10%;
+    bottom: 120px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 14.4px;
+    line-height: 17px;
+}
+.adult-paediatric-b {
+   color: #FFFFFF;
+    font-family: inherit;
+    font-size: 32px;
+    letter-spacing: 1.28px;
+    line-height: 35px;
+    width: 59%;
+    text-align: left;
+    left: 39%;
+    top: 4.5%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    font-weight: 500;
+}
+.haematology-oncolo {
+    color: #FFFFFF;
+    font-family: StagSans;
+    font-size: 16px;
+    letter-spacing: 3.59px;
+    line-height: 29px;
+    width: 605px;
+    text-align: left;
+    left: 10%;
+    top: 5.5%;
+    position: absolute;
+}
+/*#content-rectangle {
+    background-image: radial-gradient(#2EC4B8, #6078EA);
+    border-radius: 4px;
+    width: 423px;
+    height: 69px;
+    margin: 0px 0px;
+    color: #FFFFFF;
+    font-family: inherit;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: left;
+    padding: 16px 3px;
+    font-weight: 500;
+}
+.replacement-of-disea {
+    color: #000000;
+    font-family: inherit;
+    font-size: 14px;
+    line-height: 22px;
+    width: 100%;
+    text-align: left;
+    padding: 15px 0px;
+    margin: 13px 12px 5px;
+}
+.line-3 {
+    border: 1px solid #ECECFF;
+    width: 97%;
+    height: 2px;
+    margin: 0% 4%;
+}
+.marign-60 {
+margin: 0% 0%
+}*/
+.details-rectangle {
+    background-color: #F9F9FF;
+    border-radius: 4px;
+   /* width: 399px;*/
+    height: 1064px;
+}
+.md-mrcp-ph-d-cct-le-copy {
+    color: #1D5AA6;
+    font-family: inherit;
+    font-size: 13px;
+    letter-spacing: 1.2px;
+    line-height: 16px;
+    text-align: center;
+}
+.dr-vijay-agarwal-is-copy-2 {
+    color: #000000;
+    font-family: inherit;
+    font-size: 12px;
+    line-height: 20px;
+    /* width: 320px; */
+    text-align: center;
+    margin: 0% 8%;
+}
+/* .padding-32px{
+   padding: 10px 69px;
+}*/
+.line-3-copy-6 {
+    border: 1px solid #ECECFF;
+    /* width: 294px; */
+    height: 2px;
+    margin: 0% 10%;
+}
+.path {
+  background-color: #E2574C;
+  width: 8px;
+  height: 8px;
+}
+.autologous-bone-marr {
+	color: #000000;
+	font-family: StagSans;
+    font-size: 14px;
+    line-height: 23px;
+    display: inline;
+}
+.types-margin{ 
+  margin:0% 10%; 
+  text-align: left;
+}
+div.fixed-rectangle {
+    height: 170px;
+    margin: 1% 1%;
+    max-width: 22%;
+    background-color: #FFFFFF;
+    border: 1px solid #E5EAFF;
+    border-radius: 4px;
+    box-shadow: 3px 5px 29px 0 rgb(187 165 228 / 10%)
+}
+.failure-to-thrive {
+ color: #000000;
+    font-family: StagSans;
+    font-size: 14px;
+    line-height: 23px;
+    width: 158px;
+    text-align: left;
+    padding: 10% 0%;
+}
+
+.dropdown-align{
+left: 9.2%;
+}
+.line-3-copy-2 {
+    border: 1px solid #ECECFF;
+    width: 889px;
+    height: 0px;
+}
+.left-arrow-align{left: 23%;}
+.right-arrow-align{left: 9%;}
+.it-is-a-long-establish {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  line-height: 21px;
+  width: 293px;
+  padding: 9% 0%;
+  text-align: left;
+}
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+.aster-logo-white {
+   text-align: left;
+    left: 10%;
+    top: 2%;
+    position: absolute;
+    width: 12%;
+    height: 1.3%;
+}
+.enquire-rectangle {
+    background-color: #FFFFFF;
+    box-shadow: -4px 2px 13px 0 rgb(85 95 126 / 18%);
+    width: 24%;
+    height: 7.5%;
+    right: 5%;
+    top: 1%;
+    padding: 2%;
+    position: absolute;
+}
+.enquire-now {
+    color: #213559;
+    font-family: inherit;
+    font-size: 20.08px;
+    line-height: 26px;
+    width: 4%;
+    text-align: left;
+    font-weight: bold;
+}
+.enquire-label-rectangle {
+    border: 0.87px solid #D0D0D0;
+    width: 90%;
+    height: 12%;
+    color: #213559;
+    font-family: inherit;
+    font-size: 11.22px;
+    line-height: 11px;
+    text-align: left;
+    padding: 10px;
+    margin: 13px 5px 0px;
+}
+.rectangle-copy-2 {
+   background-color: #FFFFFF;
+    border: 0.87px solid #D0D0D0;
+    width: 90%;
+    height: 12%;
+    padding: 13px 10px 20px 15px;
+    margin: 10px 4px 10px;
+    display: flex;
+}
+.robout-rectangle {
+   background-color: #FFFFFF;
+    border: 0.87px solid #979797;
+    border-radius: 0.87px;
+    width: 5%;
+    height: 11px;
+}
+.im-not-a-robot {
+    color: #213559;
+    font-family: inherit;
+    font-size: 12.22px;
+    line-height: 14px;
+    width: 124px;
+    text-align: left;
+    padding: 0px 0px 0px 13px;
+}
+.submit {
+    background-color: #DD5A6A;
+    border-radius: 3.2px;
+    width: 38%;
+    height: 9%;
+    text-align: left;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 13.4px;
+    line-height: 17px;
+    margin-top: 8px;
+}
+.book-appoinment-rectangle {
+       background-color: #DD5A6A;
+    border-radius: 3.2px;
+    width: 17%;
+    height: 45px;
+    text-align: left;
+    left: 10%;
+    bottom: 146px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 14.4px;
+    line-height: 17px;
+}
+.adult-paediatric-b {
+   color: #FFFFFF;
+    font-family: inherit;
+    font-size: 25px;
+    letter-spacing: 1.28px;
+    line-height: 34px;
+    width: 47%;
+    text-align: left;
+    left: 33%;
+    top: 4.3%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    font-weight: 500;
+}
+.haematology-oncolo {
+    color: #FFFFFF;
+    font-family: StagSans;
+    font-size: 16px;
+    letter-spacing: 3.59px;
+    line-height: 29px;
+    width: 605px;
+    text-align: left;
+    left: 10%;
+    top: 5%;
+    position: absolute;
+}
+/*#content-rectangle {
+    background-image: radial-gradient(#2EC4B8, #6078EA);
+    border-radius: 4px;
+    width: 423px;
+    height: 69px;
+    margin: 0px 0px;
+    color: #FFFFFF;
+    font-family: inherit;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: left;
+    padding: 16px 3px;
+    font-weight: 500;
+}
+.replacement-of-disea {
+    color: #000000;
+    font-family: inherit;
+    font-size: 14px;
+    line-height: 22px;
+    width: 100%;
+    text-align: left;
+    padding: 15px 0px;
+    margin: 13px 12px 5px;
+}
+.line-3 {
+    border: 1px solid #ECECFF;
+    width: 97%;
+    height: 2px;
+    margin: 0% 4%;
+}
+.marign-60 {
+margin: 0% 0%
+}*/
+.details-rectangle {
+  background-color: #F9F9FF;
+    border-radius: 4px;
+   /* width: 303px; */
+    height: 1064px;
+}
+.md-mrcp-ph-d-cct-le-copy {
+    color: #1D5AA6;
+    font-family: inherit;
+    font-size: 13px;
+    letter-spacing: 1.2px;
+    line-height: 16px;
+    text-align: center;
+}
+.dr-vijay-agarwal-is-copy-2 {
+    color: #000000;
+    font-family: inherit;
+    font-size: 10px;
+    line-height: 20px;
+   /* width: 266px; */
+    text-align: center;
+    margin: 0% 8%;
+}
+/*.padding-32px{
+padding: 10px 32px;
+}*/
+.line-3-copy-6 {
+    border: 1px solid #ECECFF;
+  /*  width: 226px; */
+    height: 2px;
+    margin: 0% 10%;
+}
+.autologous-bone-marr {
+	color: #000000;
+	font-family: StagSans;
+    font-size: 14px;
+    line-height: 23px;
+    display: inline;
+}
+.types-margin {
+    margin: 0% 12%;
+    text-align: left;
+}
+div.fixed-rectangle {
+    height: 170px;
+    margin: 1% 1%;
+    max-width: 22%;
+    background-color: #FFFFFF;
+    border: 1px solid #E5EAFF;
+    border-radius: 4px;
+    box-shadow: 3px 5px 29px 0 rgb(187 165 228 / 10%)
+}
+.failure-to-thrive {
+ color: #000000;
+    font-family: StagSans;
+    font-size: 14px;
+    line-height: 23px;
+    width: 115px;
+    text-align: left;
+    padding: 2% 0%;
+}
+.dropdown-align{ 
+ left: 67%;
+}
+.line-3-copy-2 {
+    border: 1px solid #ECECFF;
+    width: 1076px;
+    height: 0px;
+    margin: 0px 16px;
+}
+.left-arrow-align{left: 80%;}
+.right-arrow-align{left: 67%;}
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+.aster-logo-white {
+  text-align: left;
+    left: 10%;
+    top: 2%;
+    position: absolute;
+    width: 12%;
+    height: 1.5%;
+}
+.enquire-rectangle {
+   background-color: #FFFFFF;
+    box-shadow: -4px 2px 13px 0 rgb(85 95 126 / 18%);
+    width: 24%;
+    height: 8%;
+    right: 5%;
+    top: 1%;
+    padding: 2%;
+    position: absolute;
+}
+.enquire-now {
+    color: #213559;
+    font-family: inherit;
+    font-size: 20.08px;
+    line-height: 26px;
+    width: 4%;
+    text-align: left;
+    font-weight: bold;
+}
+.enquire-label-rectangle {
+   border: 0.87px solid #D0D0D0;
+    width: 90%;
+    height: 10%;
+    color: #213559;
+    font-family: inherit;
+    font-size: 10.22px;
+    line-height: 14px;
+    text-align: left;
+    padding: 10px;
+    margin: 13px 5px 0px;
+}
+.rectangle-copy-2 {
+   background-color: #FFFFFF;
+    border: 0.87px solid #D0D0D0;
+    width: 90%;
+    height: 16%;
+    padding: 17px 10px 20px 15px;
+    margin: 10px 4px 10px;
+    display: flex;
+}
+.robout-rectangle {
+   background-color: #FFFFFF;
+    border: 0.87px solid #979797;
+    border-radius: 0.87px;
+    width: 6%;
+    height: 11PX;
+}
+.im-not-a-robot {
+    color: #213559;
+    font-family: inherit;
+    font-size: 12.22px;
+    line-height: 14px;
+    width: 124px;
+    text-align: left;
+    padding: 0px 0px 0px 13px;
+}
+.submit {
+    background-color: #DD5A6A;
+    border-radius: 3.2px;
+    width: 38%;
+    height: 9%;
+    text-align: left;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 13.4px;
+    line-height: 17px;
+    margin-top: 8px;
+	 }
+.book-appoinment-rectangle {
+   background-color: #DD5A6A;
+    border-radius: 3.2px;
+    width: 17%;
+    height: 45px;
+    text-align: left;
+    left: 10%;
+    bottom: 117px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 14.4px;
+    line-height: 17px;
+}
+.adult-paediatric-b {
+    color: #FFFFFF;
+    font-family: inherit;
+    font-size: 25px;
+    letter-spacing: 1.28px;
+    line-height: 35px;
+    width: 46%;
+    text-align: left;
+    left: 33%;
+    top: 4.5%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    font-weight: 500;
+}
+.haematology-oncolo {
+   color: #FFFFFF;
+    font-family: StagSans;
+    font-size: 16px;
+    letter-spacing: 3.59px;
+    line-height: 29px;
+    width: 605px;
+    text-align: left;
+    left: 10%;
+    top: 5.5%;
+    position: absolute;
+}
+/*#content-rectangle {
+    background-image: radial-gradient(#2EC4B8, #6078EA);
+    border-radius: 4px;
+    width: 423px;
+    height: 69px;
+    margin: 0px 0px;
+    color: #FFFFFF;
+    font-family: inherit;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: left;
+    padding: 16px 3px;
+    font-weight: 500;
+}
+.replacement-of-disea {
+    color: #000000;
+    font-family: inherit;
+    font-size: 14px;
+    line-height: 22px;
+    width: 100%;
+    text-align: left;
+    padding: 15px 0px;
+    margin: 13px 12px 5px;
+}
+.line-3 {
+    border: 1px solid #ECECFF;
+    width: 97%;
+    height: 2px;
+    margin: 0% 4%;
+}
+.marign-60 {
+margin: 0% 0%
+}*/
+.details-rectangle {
+  background-color: #F9F9FF;
+    border-radius: 4px;
+   /* width: 303px; */
+    height: 1064px;
+}
+.md-mrcp-ph-d-cct-le-copy {
+    color: #1D5AA6;
+    font-family: inherit;
+    font-size: 13px;
+    letter-spacing: 1.2px;
+    line-height: 16px;
+    text-align: center;
+}
+.dr-vijay-agarwal-is-copy-2 {
+    color: #000000;
+    font-family: inherit;
+    font-size: 10px;
+    line-height: 20px;
+   /* width: 266px;*/
+    text-align: center;
+    margin: 0% 8%;
+}
+/* .padding-32px{
+padding: 10px 32px;
+} */
+.line-3-copy-6 {
+    border: 1px solid #ECECFF;
+    width: 226px;
+    height: 2px;
+    margin: 0% 10%;
+}
+.autologous-bone-marr {
+	color: #000000;
+	font-family: StagSans;
+    font-size: 14px;
+    line-height: 23px;
+    display: inline;
+}
+.types-margin {
+   /* margin: 0% 12%;*/
+    text-align: left;
+}
+div.fixed-rectangle {
+    height: 170px;
+    margin: 1% 1%;
+    max-width: 22%;
+    background-color: #FFFFFF;
+    border: 1px solid #E5EAFF;
+    border-radius: 4px;
+    box-shadow: 3px 5px 29px 0 rgb(187 165 228 / 10%)
+}
+.failure-to-thrive {
+ color: #000000;
+    font-family: StagSans;
+    font-size: 14px;
+    line-height: 23px;
+    width: 105px;
+    text-align: left;
+	padding: 0% 0%;
+}
+.line-3-copy-2 {
+    border: 1px solid #ECECFF;
+    width: 1076px;
+    height: 0px;
+    margin: 0px 16px;
+}
+.dropdown-align{
+left: 0%;
+}
+.left-arrow-align{left: 15%;}
+.right-arrow-align{left: 0%;}
+}
